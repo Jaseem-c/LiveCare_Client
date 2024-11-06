@@ -1,0 +1,33 @@
+.admin_chat1 {
+    display: flex;
+    margin-left: 8px;
+    margin-bottom: 5px;
+}
+
+.admin_chat1 >p {
+    background-color: rgb(17, 35, 233);
+    padding: 7px 12px;
+    max-width: 270px;
+    border-radius: 20px;
+    text-align: justify;
+    color: aliceblue;
+}
+
+
+
+.user_chat1 {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 8px;
+    margin-bottom: 5px;
+}
+
+.user_chat1 >p {
+    background-color: rgb(19, 12, 233);
+    padding: 5px 7px;
+    max-width: 270px;
+    border-radius: 20px;
+    text-align: justify;
+    color: aliceblue;
+
+}

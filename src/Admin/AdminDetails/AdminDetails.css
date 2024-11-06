@@ -1,0 +1,87 @@
+.home-icon-container {
+   color: linear-gradient(to bottom, #525a6d, #eaa0a2);
+    padding: 10px; 
+   
+    background-color: beige;
+  }
+  
+  .icon-with-text {
+    display: flex;
+    align-items: center; 
+  }
+  
+  .icon-with-text i {
+    margin-right: 10px; 
+    margin-top: -80px; 
+  }
+  .admin-details-container {
+    display: flex;
+    padding: 30px;
+  }
+  
+  .admin-detail {
+    flex: 1;
+    margin: 0 10px;
+    flex: 1;
+  margin: 0 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #EDE0D4;
+  border-radius: 10px;
+  background-color:#B08968;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+  }
+  
+ 
+  
+  .icon-with-text i {
+    font-size: 24px;
+    margin-bottom: 100px;
+  }
+  .iconhome{
+    margin-top: -55px;
+  }
+ 
+  
+  .admin-detail h6 {
+    font-size: 16px;
+    margin-top: -10px;
+  }
+  
+  
+  @media screen and (max-width: 768px) {
+    .admin-details-container {
+      flex-direction: column;
+    }
+    
+    .admin-detail {
+      margin-bottom: 10px;
+    }}
+
+    .d1{
+      margin-top:-40px;      
+      padding: 0;
+  
+    }
+    .b1{
+      margin-right: 200px;
+      font-size: 40px;
+    }
+    .b2{
+      margin-left: -200px;
+      
+    }
+    .b3{
+      margin-left: -140px;
+    }
+    .additional-row {
+      display: flex;
+    }
+    
+   
+    

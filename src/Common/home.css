@@ -1,0 +1,26 @@
+.chome{
+    width: 100%;
+    height: 100vh;
+    background-image: url('https://carepartners.us/wp-content/uploads/2023/08/loadimage-1.jpg');
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+}
+.chome h1{
+    font-size: 50px;
+    font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+.chome h6{
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+}
+.therapy{
+    width: 300px;
+    height: 130px;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

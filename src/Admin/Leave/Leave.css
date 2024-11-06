@@ -1,0 +1,30 @@
+.leave1{
+    
+   
+    justify-content: space-between;
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    border:4px solid #9C6644 ;
+    overflow-y: scroll;
+}
+.leave1 .card-container {
+    flex: 1; 
+    margin-right: 10px; 
+  }
+  
+  .leave1 .card-container:last-child {
+    margin-right: 0; 
+  }
+.leave2{
+  margin-right: 100px;
+  margin-top: 40px;
+}
+.leave3{
+  font-family: "Butterfly Kids", cursive;
+margin-top: -5%;
+}
+.leave4{
+  font-family: "Butterfly Kids", cursive;
+
+}
